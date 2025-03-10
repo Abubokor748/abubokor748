@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="(https://i.ibb.co.com/m5S6301K/Linked-In-Banner.png)"  />
+  <img height="250" src="https://i.ibb.co.com/m5S6301K/Linked-In-Banner.png"  />
 </div>
 
 ###
